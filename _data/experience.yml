@@ -3,12 +3,7 @@
 - company: West Yorkshire Pension Fund (Bradford Council), Bradford, UK
   position: Full Stack Developer
   duration: Oct, 2023 &mdash; Present
-  summary: <ul class="resume-item-list">
-    <li>Refactored SOAP APIs to RESTful architecture and constructed new REST APIs utilizing Fast API in Python, adhering to agile methodologies</li>
-    <li>Seamlessly connected APIs with Oracle databases to ensure efficient and secure data integration</li>
-    <li>Utilized APIs in applications built on React.js with Next.js</li>
-    <li>Technical Proficiency:Python, Fast API, Rest API, React.js, Tailwind CSS, Oracle, JavaScript, HTML, CSS</li>
-  </ul>
+  summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
 
 # Director of Digital Stratgy
 - company: United Nations Human Rights Council
