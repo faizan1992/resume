@@ -1,19 +1,30 @@
 # Jobs
-# VP of Global Communications
+# West Yorkshire Pension Fund
 - company: West Yorkshire Pension Fund (Bradford Council), Bradford, UK
   position: Full Stack Developer
   duration: Oct, 2023 &mdash; Present
   summary: <ul class="resume-item-list"><li>Refactored SOAP APIs to RESTful architecture and constructed new REST APIs utilizing Fast API in Python, adhering to agile methodologies</li><li>Seamlessly connected APIs with Oracle databases to ensure efficient and secure data integration</li><li>Utilized APIs in applications built on React.js with Next.js</li><li>Technical Proficiency:Python, Fast API, Rest API, React.js, Tailwind CSS, Oracle, JavaScript, HTML, CSS</li></ul>
 
-# Director of Digital Stratgy
-- company: United Nations Human Rights Council
-  position: Director of Digital Strategy
-  duration:  Jun, 2010 &mdash; Sept, 2013
-  summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
+# Jaffer Brother (Pvt) Limited
+- company: Jaffer Brother (Pvt) Limited, Karachi, PK
+  position: Senior Software and Web Developer
+  duration: Nov, 2021 &mdash; Aug, 2023
+  summary: <ul class="resume-item-list"><li>Managed the organization's AWS web server and oversaw hosting, ensuring seamless operation.</li><li>Managed core websites, content management systems (CMS), and software, skillfully integrating technical proficiency with project management capabilities.</li><li>Technical Proficiency:AWS web server, PHP, JavaScript, SQL, MySQL, HTML, WordPress and CSS</li></ul>
 
+# Samaa TV
+- company: Samaa TV, Karachi, PK
+  position: Lead Web Developer
+  duration:   Jun, 2020  &mdash; Nov, 2021
+  summary: <ul class="resume-item-list"><li>Played a crucial role in refining and improving the organization's tailored WordPress website</li><li>Managed cross-functional collaboration by effectively coordinating with designers, content creators, and stakeholders to achieve project goals.</li><li>Utilized HTML, jQuery, JavaScript, HTML5, and database optimization strategies to develop innovative web solutions</li><li>Technical Proficiency:PHP, WordPress, jQuery, SQL, MySQL, Google Analytics, JavaScript, HTML, CSS, Ajax, APIs, customize theme, Customize Plugins</li></ul>
 
-# Communications Coordinator
-- company: Springfield Women & Children's Center
-  position: Communications Coordinator
-  duration:   Jun, 2008  &mdash; May, 2010
-  summary: Led communication efforts across digital and traditional media channels for marketing and public relations, internal communication strategies, and coordinated support programs for the recipients of the center's services.
+# Alsons Group
+- company: Alsons Group, Karachi, PK
+  position: Software Engineer
+  duration:   Dec, 2018  &mdash; Jun, 2020
+  summary: <ul class="resume-item-list"><li>Engineered reporting dashboards, and high-caliber projects, showcasing adaptability and expertise in software development</li><li>Spearheaded the automation of Forecourt Controller, enhancing efficiency and accuracy in operations</li><li>Managed both front-end and back-end programming tasks, utilizing PHP and MySQL, while also facilitating hardware-to-software communication through Socket Programming in Python</li><li>Technical Proficiency:PHP, jQuery, SQL, JavaScript, HTML, CSS, Ajax, APIs, Python</li></ul>
+
+  # Pinnacle Studio
+- company: Pinnacle Studio, Karachi, PK
+  position: Software and Web Developer
+  duration:   Dec, 2015  &mdash; Dec, 2018
+  summary: <ul class="resume-item-list"><li>Contributed to the development of various software applications and websites, predominantly built from the ground up</li><li>Designed and implemented B2C, B2B, and E-commerce websites and applications using core PHP and associated frameworks</li><li>Implement Google Analytics, Facebook Pixels, and Google Tag Manager on various E-commerce sites</li><li>Technical Proficiency:PHP, jQuery, SQL, JavaScript, HTML, CSS, Ajax, APIs, WordPress</li></ul>
